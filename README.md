@@ -10,7 +10,8 @@ Week - 1 <br />
     ~~LCA noobie approach~~ <br/>
     ~~Check if two trees are mirrors of eachother~~ <br />
     ~~Sum of nodes along the longest path from root to leaf~~ <br />
-    ~~Succinct Encoding of binary tree~~ <br /> 
+    ~~Succinct Encoding of binary tree~~ <br />
+    ~~Binary indexed / Fenwick tree~~ <br />
   Check if given pre, post and inorder traversals are from the same tree - set 1 <br />
   Check if given pre, post and inorder traversals are from the same tree - set 2 <br />
 Level order traversal in spiral form <br />
