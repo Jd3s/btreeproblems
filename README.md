@@ -12,6 +12,6 @@ Week - 1 <br />
   <ul><li>[x] Sum of nodes along the longest path from root to leaf </li> </ul> 
   <ul><li>[x]   Succinct Encoding of binary tree </li> </ul>
  <ul><li>[x] Binary indexed / Fenwick tree  </li></ul>
- <ul><li>[ ] Check if given pre, post and inorder traversals are from the same tree - set 1 
- [ ] Check if given pre, post and inorder traversals are from the same tree - set 2 </li> </ul>
-Level order traversal in spiral form <br />
+ <ul><li>[ ] Check if given pre, post and inorder traversals are from the same tree - set 1 </li> </ul>
+ <ul><li> [ ] Check if given pre, post and inorder traversals are from the same tree - set 2 </li> </ul>
+<ul><li> [ ] Level order traversal in spiral form  </li> </ul>
