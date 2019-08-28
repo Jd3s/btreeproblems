@@ -1,6 +1,6 @@
 # btreeproblems <br />
 Week - 1 <br />
- <ul><li>[x]Check if all leaves are at same level </li> </ul>
+ <ul><li>[x] Check if all leaves are at same level </li> </ul>
  <ul><li>[x] Sum of all nodes in a binary tree </li> </ul>
  <ul><li>[x] Sum of all the parent nodes having child node x </li> </ul>
  <ul><li>[x]  Sum of all left leaves in a binary tree </li> </ul>
